@@ -18,7 +18,7 @@ const experiences: ExperienceItem[] = [
     role: "Squeezy 2FA System",
     company: "Authentication System",
     location: "",
-    period: "Mar 2025 - Present",
+    period: "Mar 25 - Present",
     description: [
       "Built secure MERN authentication system integrated with Next.js frontend.",
       "Implemented two-factor authentication and email verification for secure access.",
@@ -31,7 +31,7 @@ const experiences: ExperienceItem[] = [
     role: "CarbonTracker ",
     company: "Coal Emissions App",
     location: "",
-    period: "Oct 2024",
+    period: "Oct 24",
     description: [
       "Developed a Coal Emissions application that measures carbon emissions from industrial processes.",
       "Implemented data visualization tools using React and Chart.js to display emission metrics.",
@@ -44,7 +44,7 @@ const experiences: ExperienceItem[] = [
     role: "Video Streaming Platform",
     company: "",
     location: "",
-    period: "May 2024",
+    period: "May 24",
     description: [
       "Created video streaming platform using Angular, Node.js, and MongoDB.",
       "User-friendly video streaming platform designed to support up to 100 users.",

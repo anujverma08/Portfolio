@@ -25,7 +25,7 @@ const educations: Education[] = [
     id: 1,
     degree: "Bachelor of Technology in Computer Science",
     institution: "Lovely Professional University",
-    period: "Aug 2022 - June 2026",
+    period: "Aug 22 - Present",
     description: "",
     gpa: "8.45"
   },
@@ -33,7 +33,7 @@ const educations: Education[] = [
     id: 2,
     degree: "Intermediate",
     institution: "St Xavier Public School",
-    period: "Apr 2020 - Mar 2021",
+    period: "Apr 20 - Mar 21",
     description: "",
     gpa: "93%"
   },
@@ -41,7 +41,7 @@ const educations: Education[] = [
     id: 3,
     degree: "Matriculation",
     institution: "St Xavier Public School",
-    period: "Apr 2018- Mar 2019",
+    period: "Apr 18- Mar 19",
     description: "",
     gpa: "91%"
   }
@@ -53,21 +53,21 @@ const certifications: Certification[] = [
     id: 1,
     title: "Full Stack Web Development",
     issuer: "LinkedIn Learning",
-    date: "Februrary 2023",
+    date: "Feb 23",
     link: "https://www.linkedin.com/learning/certificates/344945193aa33f3e6c16a0addfd3e1f00786ea1a0f8914bc8428f38c306caaca"
   },
   {
     id: 2,
     title: "The Bits and Bytes of Computer Networking",
     issuer: "Google | Coursera",
-    date: "November 2024",
+    date: "Nov 24",
     link: "https://www.coursera.org/account/accomplishments/verify/9W49ZP8PZRP8"
   },
   {
     id: 3,
     title: "Java (Basic)",
     issuer: "HackerRank",
-    date: "December 2024",
+    date: "Dec 24",
     link: "https://www.hackerrank.com/certificates/417bce25532c"
   }
 ];
