@@ -133,7 +133,7 @@ const Contact: React.FC = () => {
                     Location
                   </h4>
                   <p className="text-gray-600 dark:text-gray-300">
-                    New Delhi, India
+                    Punjab, India
                   </p>
                 </div>
               </div>
