@@ -30,7 +30,7 @@ const Hero: React.FC = () => {
             }`}
           >
             <img 
-              src="assets/anuj.jpg" 
+              src="assets/anuj.jpg " 
               alt="Profile" 
               className="w-32 h-32 rounded-full border-4 border-white dark:border-gray-800 shadow-lg mb-8"
             />

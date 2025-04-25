@@ -9,6 +9,7 @@ import Education from './sections/Education';
 import Contact from './sections/Contact';
 import Footer from './components/Footer';
 import { ThemeProvider } from './context/ThemeContext';
+import Certification from './sections/certification';
 
 function App() {
   const [scrollProgress, setScrollProgress] = useState(0);
@@ -41,6 +42,7 @@ function App() {
           <Projects />
           <Skills />
           <Education />
+          <Certification />
           <Contact />
         </main>
         <Footer />
