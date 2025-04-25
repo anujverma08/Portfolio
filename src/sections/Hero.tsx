@@ -29,11 +29,11 @@ const Hero: React.FC = () => {
               isVisible ? 'translate-y-0 opacity-100' : 'translate-y-10 opacity-0'
             }`}
           >
-            <img 
+            {/* <img 
               src="assets/anuj.jpg " 
               alt="Profile" 
               className="w-32 h-32 rounded-full border-4 border-white dark:border-gray-800 shadow-lg mb-8"
-            />
+            /> */}
           </div>
 
           <h1 

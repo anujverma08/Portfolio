@@ -59,7 +59,7 @@ const projects: ProjectType[] = [
     id: 5,  
     title: "Squeezy 2FA System",
     description: "Developed a secure MERN authentication system with Next.js frontend integration, featuring two-factor authentication, email verification, Nodemailer integration, and robust user authorization using JWT, cookies, and sessions.",
-    image: "https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image: "/assets/image.png",
     tags: ["Next", "JWT", "Node.js", "MongoDb"],
     github: "https://github.com/anujverma08/Authentication",
     demo: "https://authentication-pied-three.vercel.app/",
