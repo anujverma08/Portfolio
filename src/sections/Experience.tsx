@@ -30,7 +30,7 @@ const experiences: ExperienceItem[] = [
     id: 2,
     role: "CarbonTracker ",
     company: "Coal Emissions App",
-    location: "",
+    location: "Smart India Hackathon 2024",
     period: "Oct 24",
     description: [
       "Developed a Coal Emissions application that measures carbon emissions from industrial processes.",

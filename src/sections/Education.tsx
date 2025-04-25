@@ -27,7 +27,7 @@ const educations: Education[] = [
     institution: "Lovely Professional University",
     period: "Aug 22 - Present",
     description: "",
-    gpa: "8.45"
+    gpa: "CGPA - 8.45"
   },
   {
     id: 2,
@@ -35,7 +35,7 @@ const educations: Education[] = [
     institution: "St Xavier Public School",
     period: "Apr 20 - Mar 21",
     description: "",
-    gpa: "93%"
+    gpa: "Percentage - 93%"
   },
   {
     id: 3,
@@ -43,7 +43,7 @@ const educations: Education[] = [
     institution: "St Xavier Public School",
     period: "Apr 18- Mar 19",
     description: "",
-    gpa: "91%"
+    gpa: "Percentage - 91%"
   }
 
 ];
@@ -130,7 +130,7 @@ const Education: React.FC = () => {
                   {edu.gpa && (
                     <div className="flex items-center text-gray-700 dark:text-gray-300 font-medium">
                       <Award className="w-4 h-4 mr-2 text-yellow-500" />
-                      <span>CGPA: {edu.gpa}</span>
+                      <span>Grade: {edu.gpa}</span>
                     </div>
                   )}
                 </div>

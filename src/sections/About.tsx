@@ -42,6 +42,7 @@ const About: React.FC = () => {
             </p>
             
             <p className="text-gray-600 dark:text-gray-300 mb-6 leading-relaxed">
+            I am a Computer Science and Engineering student at Lovely Professional University with a strong passion for full-stack web development, problem-solving, and optimizing system performance.
               My journey in coding began during my college years, and since then, I have been 
               constantly expanding my knowledge and skills. I am dedicated to writing clean, 
               maintainable code and staying up-to-date with the latest industry trends and best practices.
