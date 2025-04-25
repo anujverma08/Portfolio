@@ -63,7 +63,7 @@ const Experience: React.FC = () => {
   return (
     <section id="experience" className="py-20 bg-gray-50 dark:bg-gray-800">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-        <SectionTitle title="Work Experience" subtitle="My professional journey" />
+        <SectionTitle title="Project Experience" subtitle="My journey" />
         
         <div 
           ref={ref} 
